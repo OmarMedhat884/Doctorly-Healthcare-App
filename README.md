@@ -14,6 +14,7 @@ Doctorly is an all-encompassing healthcare web and mobile application that links
 6) Omar Hafez Maamoun Mohamed
 ***
 Team Roles & Work Allocation
+
 The team members will collectively organize and allocate the workload. For the initial distribution, three members will focus on the website design and three members will focus on the mobile application design. This ensures balanced effort, parallel progress, and consistent design across both platforms.
 Project Work Plan – Medical Application & Website (UI/UX)
 ***
