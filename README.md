@@ -16,8 +16,8 @@ Doctorly is an all-encompassing healthcare web and mobile application that links
 Team Roles & Work Allocation
 
 The team members will collectively organize and allocate the workload. For the initial distribution, three members will focus on the website design and three members will focus on the mobile application design. This ensures balanced effort, parallel progress, and consistent design across both platforms.
-Project Work Plan – Medical Application & Website (UI/UX)
 ***
+Project Work Plan – Medical Application & Website (UI/UX)
 1. Research & Problem Definition
 
 Conduct an analysis of the healthcare sector and current platforms (e.g., Vezeeta).
