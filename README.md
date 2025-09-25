@@ -13,6 +13,3 @@ Doctorly is an all-encompassing healthcare web and mobile application that links
 
 6) Omar Hafez Maamoun Mohamed
 ***
-
-(Ux project depi)[https://www.figma.com/board/CpjYp3hA3kZsnAQw1qL28J/Final-Project-DEPI_UX?node-id=0-1&t=o9WRqdw4R0E0ZVtS-1]
-***
