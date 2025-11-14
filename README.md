@@ -13,7 +13,9 @@ Doctorly is a fully integrated healthcare platform designed to streamline intera
 6. Omar Hafez Maamoun Mohamed  
 
 ---
-
+## 🔗 Figma Prototype
+[View the Figma Design File](https://www.figma.com/design/awtTutzi6MjALfctkYa0Yi/Final-Project-DEPI_UI?node-id=199-559&t=3Lw3pjWgUDOpdTdP-1)
+---
 ## **💡 Project Idea**
 
 Doctorly aims to simplify healthcare access by creating a unified digital ecosystem where patients can easily connect with healthcare providers. The platform addresses common challenges in traditional medical workflows—such as long waiting times, difficulty finding specialists, and scattered medical records—by offering a seamless, centralized solution.
