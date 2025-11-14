@@ -1,78 +1,69 @@
-# Doctorly-Healthcare-Web-Mobile-Application
-Doctorly is a fully integrated healthcare web and mobile platform that facilitates seamless interaction between patients and physicians. The system delivers core functionalities including appointment booking, scheduling management, electronic patient records, and secure communication. All features are supported by a scalable system architecture and a refined, modern UI/UX design.
+# Doctorly – Healthcare Web & Mobile Application
+
+Doctorly is a fully integrated healthcare platform designed to streamline interactions between patients and physicians across both web and mobile interfaces. It provides essential features including appointment booking, scheduling management, electronic patient records, and secure communication. The system is built on a scalable architecture and enhanced with a modern, user-centric UI/UX.
+
 ---
-# **Team Members**
-1) Marwa Mohamed Basiouny Mohamed Basiouny
 
-2) Basmla Mohamed Saleh Eid
+## **👥 Team Members**
+1. Marwa Mohamed Basiouny Mohamed  
+2. Basmla Mohamed Saleh Eid  
+3. Ahmed Osama Nasr El-Sheshtawy  
+4. Abdelrahman Mohamed Sayed Fouad  
+5. Omar Medhat Mohamed Mohamed Youssef  
+6. Omar Hafez Maamoun Mohamed  
 
-3) Ahmed Osama Nasr El-Sheshtawy
-
-4) Abdelrahman Mohamed Sayed Fouad
-
-5) Omar Medhat Mohamed Mohamed Youssef
-
-6) Omar Hafez Maamoun Mohamed
-***
-Team Roles & Work Allocation
-
-The team members will collectively organize and allocate the workload. For the initial distribution, three members will focus on the website design and three members will focus on the mobile application design. This ensures balanced effort, parallel progress, and consistent design across both platforms.
-***
-Project Work Plan – Doctorly Application & Website (UI/UX)
-1. Research & Problem Definition
-
-Conduct an analysis of the healthcare sector and current platforms (e.g., Vezeeta).
-
-Identify user requirements such as appointment scheduling, physician search, medical records management, and telemedicine services.
-
-Articulate the problem statement and establish clear project goals.
-
-2. Requirement Gathering
-
-Compile and document the necessary features (e.g., doctor appointment system, search filters, patient records management, pharmacy delivery services).
-
-Categorize requirements into essential features (must-have) and supplementary features (nice-to-have).
-
-3. User Persona & Journey Mapping
-
-Create user personas (e.g., patients, healthcare providers, pharmacy customers).
-
-Outline user journeys to illustrate interactions such as scheduling appointments, consulting with doctors, or ordering medications.
-
-4. Wireframing
-
-Develop low-fidelity wireframes for the application and website interfaces.
-
-Concentrate on user flow, navigation framework, and content arrangement.
-
-5. UI Design (High-Fidelity)
-
-Establish a cohesive style guide (colors, typography, icons, medical-themed aesthetics).
-
-Create high-fidelity mockups for all application and website pages.
-
-6. Prototyping
-
-Construct an interactive prototype using Figma to emulate key processes (e.g., booking a physician, video consultation, ordering medications).
-
-Ensure the prototype accommodates both mobile and desktop user interactions.
-
-7. Testing & Feedback
-
-Perform usability testing with colleagues or prospective users.
-
-Gather feedback regarding navigation, booking convenience, and overall user experience.
-
-Enhance the design to boost usability and accessibility.
-
-8. Final Presentation & Documentation
-
-Prepare a polished final presentation (slides and Behance case study).
-
-Provide the interactive prototype along with comprehensive documentation (personas, journey maps, wireframes, design system).
 ---
-# **Instructor**
-Dr/ Eman Abdellatif
+
+## **🧩 Team Roles & Work Allocation**
+
+The team collaboratively organizes and distributes tasks. Initially, three members will work on the **website design**, while the other three will focus on the **mobile application design**.  
+This structure ensures balanced workload, synchronized development, and consistent design across platforms.
+
 ---
-# **License**
-All rights reserved © 2025 Doctorly
+
+## **🗂️ Project Work Plan – Doctorly (UI/UX)**
+
+### **1. Research & Problem Definition**
+- Analyze the healthcare sector and existing platforms (e.g., Vezeeta).  
+- Identify user needs such as appointment booking, doctor search, and telemedicine.  
+- Define the problem statement and set clear project objectives.
+
+### **2. Requirement Gathering**
+- Document core features (e.g., appointment system, search filters, patient records management, pharmacy services).  
+- Categorize features into **must-have** and **nice-to-have**.
+
+### **3. User Persona & Journey Mapping**
+- Create personas (patients, doctors, pharmacy users).  
+- Map user journeys such as booking appointments or ordering medication.
+
+### **4. Wireframing**
+- Develop low-fidelity wireframes for both the app and website.  
+- Focus on navigation, layout, and user flows.
+
+### **5. UI Design (High-Fidelity)**
+- Build a consistent style guide (colors, typography, icons, medical theme).  
+- Design high-fidelity mockups for all pages.
+
+### **6. Prototyping**
+- Create an interactive prototype in Figma.  
+- Simulate key flows such as booking, consultation, and pharmacy orders.  
+- Ensure compatibility for both desktop and mobile experiences.
+
+### **7. Testing & Feedback**
+- Conduct usability testing with users or peers.  
+- Evaluate navigation, clarity, and ease of completing tasks.  
+- Improve design based on feedback to enhance experience and accessibility.
+
+### **8. Final Presentation & Documentation**
+- Prepare a polished case study and presentation (e.g., Behance + slides).  
+- Submit the prototype and all supporting documentation (personas, wireframes, journey maps, style guide).
+
+---
+
+## **👩‍🏫 Instructor**
+**Dr. Eman Abdellatif**
+
+---
+
+## **📜 License**
+**All rights reserved © 2025 Doctorly**
