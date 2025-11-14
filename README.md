@@ -15,8 +15,9 @@ It provides essential healthcare functionalities such as appointment booking, sc
 
 ---
 
-## 🔗 **Figma Prototype**
-👉 [**View the Figma Design File**](https://www.figma.com/design/awtTutzi6MjALfctkYa0Yi/Final-Project-DEPI_UI?node-id=199-559&t=3Lw3pjWgUDOpdTdP-1)
+## 🔗 **Figma Ui&Ux**
+🎨 [**View the Figma UI Here**](https://www.figma.com/design/awtTutzi6MjALfctkYa0Yi/Final-Project-DEPI_UI?node-id=199-559&t=3Lw3pjWgUDOpdTdP-1)
+:ux: [**View the Figma UX Here**](https://www.figma.com/design/awtTutzi6MjALfctkYa0Yi/Final-Project-DEPI_UI?node-id=199-559&t=3Lw3pjWgUDOpdTdP-1)
 
 ---
 
