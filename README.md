@@ -1,7 +1,7 @@
 # 🚑 Doctorly – Healthcare Web & Mobile Application
 
 Doctorly is a fully integrated healthcare platform designed to simplify and enhance interactions between patients and physicians across both web and mobile experiences.  
-It provides essential healthcare functionalities such as appointment booking, scheduling, electronic medical records, and secure communication — all built on a scalable architecture and a modern, user-centric UI/UX.
+It provides essential healthcare functionalities such as appointment booking, scheduling, electronic medical records, and secure communication — all built on a scalable architecture with a modern, user-centric UI/UX.
 
 ---
 
@@ -15,29 +15,29 @@ It provides essential healthcare functionalities such as appointment booking, sc
 
 ---
 
-## 🔗 **Figma Ui&Ux**
-🎨 [**View the Figma UI Here**](https://www.figma.com/design/awtTutzi6MjALfctkYa0Yi/Final-Project-DEPI_UI?node-id=199-559&t=3Lw3pjWgUDOpdTdP-1)
-🛠️ [**View the Figma UX Here**](https://www.figma.com/board/CpjYp3hA3kZsnAQw1qL28J/Final-Project-DEPI_UX?node-id=0-1&t=yFd0l7gYOudqjhW4-1)
+## 🔗 **Figma Design Files**
+- 🎨 [**View the Figma UI Prototype**](https://www.figma.com/design/awtTutzi6MjALfctkYa0Yi/Final-Project-DEPI_UI?node-id=199-559&t=3Lw3pjWgUDOpdTdP-1)  
+- 🛠️ [**View the Figma UX Board**](https://www.figma.com/board/CpjYp3hA3kZsnAQw1qL28J/Final-Project-DEPI_UX?node-id=0-1&t=yFd0l7gYOudqjhW4-1)
 
 ---
 
 ## 💡 **Project Idea**
 
-Doctorly aims to create a unified digital healthcare ecosystem that allows patients to easily connect with healthcare providers.  
-The project tackles common issues in traditional medical systems such as:
+Doctorly is designed to create a unified digital healthcare ecosystem that enables patients to easily connect with healthcare providers.  
+The platform addresses common challenges in traditional medical systems, including:
 
 - Long waiting times  
 - Difficulty finding the right specialists  
 - Scattered medical records  
 - Inefficient patient–doctor communication  
 
-Doctorly provides a centralized, intuitive, and accessible platform designed to streamline healthcare for both patients and physicians.
+Doctorly provides a centralized, intuitive, and accessible solution to streamline healthcare for both patients and providers.
 
 ### **For Patients**
-- Easy and fast appointment booking  
+- Quick and easy appointment booking  
 - Secure access to personal medical history  
 - Direct communication with physicians  
-- Consistent experience on both web and mobile  
+- Consistent experience across web and mobile  
 
 ### **For Healthcare Providers**
 - Efficient scheduling and patient management  
@@ -45,14 +45,14 @@ Doctorly provides a centralized, intuitive, and accessible platform designed to 
 - Secure messaging and follow-ups  
 - Modern interface to improve workflow and service quality  
 
-Doctorly ultimately bridges the gap between patient needs and healthcare services through a clean, professional, and efficient digital experience.
+Doctorly bridges the gap between patient needs and healthcare services through a clean, professional, and efficient digital experience.
 
 ---
 
 ## 🧩 **Team Roles & Work Allocation**
 
-The entire team collaborates on all aspects of the project, working together to design both the website and mobile application.
-Each member contributes to research, planning, UI/UX design, prototyping, and documentation to ensure a unified and consistent experience across platforms.
+The team works collaboratively on all aspects of the project, contributing to both the **website** and **mobile application**.  
+Each member is involved in research, planning, UI/UX design, prototyping, and documentation to ensure a unified and consistent experience across platforms.
 
 ---
 
@@ -65,7 +65,7 @@ Each member contributes to research, planning, UI/UX design, prototyping, and do
 
 ### **2. Requirement Gathering**
 - List core platform features (appointments, search filters, patient records, pharmacy services)  
-- Separate features into **must-have** and **nice-to-have**  
+- Categorize features into **must-have** and **nice-to-have**  
 
 ### **3. User Persona & Journey Mapping**
 - Develop personas (patients, doctors, pharmacy users)  
