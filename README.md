@@ -1,6 +1,7 @@
 # Doctorly-Healthcare-Web-Mobile-Application
-Doctorly is an all-encompassing healthcare web and mobile application that links patients with physicians. It offers functionalities such as doctor appointments, scheduling, patient record management, and secure communication, all crafted with a scalable architecture and contemporary UI/UX.d
+Doctorly is a fully integrated healthcare web and mobile platform that facilitates seamless interaction between patients and physicians. The system delivers core functionalities including appointment booking, scheduling management, electronic patient records, and secure communication. All features are supported by a scalable system architecture and a refined, modern UI/UX design.
 ---
+# **Team Members**
 1) Marwa Mohamed Basiouny Mohamed Basiouny
 
 2) Basmla Mohamed Saleh Eid
