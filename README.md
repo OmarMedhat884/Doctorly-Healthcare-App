@@ -70,3 +70,9 @@ Enhance the design to boost usability and accessibility.
 Prepare a polished final presentation (slides and Behance case study).
 
 Provide the interactive prototype along with comprehensive documentation (personas, journey maps, wireframes, design system).
+---
+# **Instructor**
+Dr/ Eman Abdellatif
+---
+# **License**
+All rights reserved © 2025 Doctorly
